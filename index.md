@@ -14,7 +14,7 @@ When not working or studying, I like to spend time with my family, travel (25+ c
 ## What I’m Looking For
 
 **What role am I interested in?**
-An IC / technical lead role (not a purely managerial one) working on cutting edge algorithms.
+An individual contributor / technical lead role (not a purely managerial one) working on cutting edge algorithms.
 
 **What kind of problems excite me?**
 Work with different modalities (text, image, video, etc.), ML at scale and performance optimizations, and turning research ideas into production systems.
@@ -23,4 +23,4 @@ Work with different modalities (text, image, video, etc.), ML at scale and perfo
 Technical strength, a culture of innovation, and the sense of ownership, resulting in modular, maintainable, and documented architectures.
 
 **What environments do I do best in?**
-Places that value quality and give engineers time to build things properly.
+Places where I can take ownership, move quickly from idea to implementation, and make a visible impact without heavy process overhead.
