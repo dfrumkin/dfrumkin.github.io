@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Dmitry Frumkin" width="180" style="border-radius: 50%;" />
+<img src="{{ '/assets/profile.jpeg' | relative_url }}" alt="Dmitry Frumkin" width="180" style="border-radius: 50%;" />
 
 # Dmitry Frumkin
 I am an applied AI researcher using deep learning, machine learning, optimization, and classical algorithms.
