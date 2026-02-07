@@ -9,7 +9,7 @@ I am an applied AI researcher using deep learning, machine learning, optimizatio
 My interests include NLP, Computer Vision, efficient deep learning.
 When not working or studying, I like to spend time with my family, travel (25+ countries and counting), and play chess.
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/dmitry-frumkin-7874ba1/) • [GitHub](https://github.com/dfrumkin/) • [SubStack](https://substack.com/@dmitryfrumkin) • [Chess Profile](https://www.chess.org.il/Players/Player.aspx?Id=199626)
+**Links:** [LinkedIn](https://www.linkedin.com/in/dmitry-frumkin-7874ba1/) • [GitHub](https://github.com/dfrumkin/) • [SubStack](https://substack.com/@dmitryfrumkin) • [Chess](https://www.chess.org.il/Players/Player.aspx?Id=199626)
 
 ## What I’m Looking For
 
