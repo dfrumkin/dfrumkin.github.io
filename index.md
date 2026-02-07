@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<img src="/assets/profile.jpeg" alt="Dmitry Frumkin" width="180" style="border-radius: 50%;" />
+<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Dmitry Frumkin" width="180" style="border-radius: 50%;" />
 
 # Dmitry Frumkin
 I am an applied AI researcher using deep learning, machine learning, optimization, and classical algorithms.
 My interests include NLP, Computer Vision, efficient deep learning.
 When not working or studying, I like to spend time with my family, travel (25+ countries and counting), and play chess.
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/dmitry-frumkin-7874ba1/) • [GitHub](https://github.com/dfrumkin/) • [SubStack](https://substack.com/@dmitryfrumkin) • [Chess Profile (he)](https://www.chess.org.il/Players/Player.aspx?Id=199626)
+**Links:** [LinkedIn](https://www.linkedin.com/in/dmitry-frumkin-7874ba1/) • [GitHub](https://github.com/dfrumkin/) • [SubStack](https://substack.com/@dmitryfrumkin) • [Chess Profile](https://www.chess.org.il/Players/Player.aspx?Id=199626)
 
 ## What I’m Looking For
 
