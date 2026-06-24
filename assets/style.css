@@ -73,7 +73,17 @@ h1, h2, h3 { color: var(--heading); line-height: 1.25; letter-spacing: -0.01em; 
 /* ---------- Layout ---------- */
 main { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
 
-.section { padding: 64px 0; border-top: 1px solid var(--border); }
+.section { padding: 64px 0; position: relative; }
+/* Full-width (edge-to-edge) top divider for normal sections.
+   The alt section is already full-bleed and carries its own border-top. */
+.section:not(.section-alt)::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: calc(50% - 50vw);
+  width: 100vw;
+  border-top: 1px solid var(--border);
+}
 
 /* Alt section spans full width with a tinted background */
 .section-alt {
